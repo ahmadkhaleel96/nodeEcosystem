@@ -1,8 +1,9 @@
-# LAB - Class 01
+# LAB - Class 02
 
-## Node Ecosystem 
+## Node Classes 
 
-### Author: Ahmad K. Al-Mahasneh
+### Author: 
+Ahmad K. Al-Mahasneh
 
 ### Links and Resources
 
