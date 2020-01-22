@@ -7,8 +7,8 @@ Ahmad K. Al-Mahasneh
 
 ### Links and Resources
 
-- [submission PR] https://github.com/ahmadkhaleel96/nodeEcosystem/pull/2
-- [ci/cd] https://github.com/ahmadkhaleel96/nodeEcosystem/commit/a8648210d554cc4afe5ee4acaa41b6f411b936df/checks?check_suite_id=410726813 (GitHub Actions)
+- [submission PR] https://github.com/ahmadkhaleel96/nodeEcosystem/pull/3
+- [ci/cd] https://github.com/ahmadkhaleel96/nodeEcosystem/commit/ee0dd589df8e8e69cba7d38c69b418e309bb41c3/checks?check_suite_id=415072012 (GitHub Actions)
 
 
 #### How to initialize/run your application (where applicable)
