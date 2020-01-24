@@ -1,0 +1,28 @@
+{
+  "name": "nodeEcosystem",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose --coverage",
+    "start": "node index.js",
+    "lint": "eslint '**/*.js'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmadkhaleel96/nodeEcosystem.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahmadkhaleel96/nodeEcosystem/issues"
+  },
+  "homepage": "https://github.com/ahmadkhaleel96/nodeEcosystem#readme",
+  "dependencies": {
+    "jest": "^24.9.0"
+  },
+  "devDependencies": {
+    "eslint": "^6.8.0"
+  }
+}
