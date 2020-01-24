@@ -20,7 +20,9 @@
   },
   "homepage": "https://github.com/ahmadkhaleel96/nodeEcosystem#readme",
   "dependencies": {
-    "eslint": "^6.8.0",
     "jest": "^24.9.0"
+  },
+  "devDependencies": {
+    "eslint": "^6.8.0"
   }
 }
