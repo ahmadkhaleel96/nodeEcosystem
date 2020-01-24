@@ -24,5 +24,5 @@ Ahmad K. Al-Mahasneh
 - Describe any tests that you did not complete, skipped, etc
    all passed
 
-## contribution and credits 
-The amazing help of Ibrahim al-Ajarmeh.
+#### UML 
+![UML for Lab-02] (assets/nodeEcosystems-lab02.jpg)
